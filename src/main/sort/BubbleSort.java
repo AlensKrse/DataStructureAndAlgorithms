@@ -1,4 +1,4 @@
-package main;
+package main.sort;
 
 import java.time.LocalDate;
 import java.util.Arrays;

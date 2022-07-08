@@ -1,4 +1,4 @@
-package main;
+package main.sort;
 
 public class Recursive {
 
