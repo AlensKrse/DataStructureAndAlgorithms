@@ -1,7 +1,6 @@
-package main.structure;
+package main.structure.linkedlist;
 
 import main.pojo.Employee;
-import main.pojo.EmployeeNode;
 
 import java.util.Objects;
 

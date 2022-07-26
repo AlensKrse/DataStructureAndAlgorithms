@@ -1,4 +1,4 @@
-package main.structure;
+package main.structure.linkedlist;
 
 import main.pojo.Employee;
 
